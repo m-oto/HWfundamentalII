@@ -1,0 +1,13 @@
+﻿2014/12/03 19:20:18 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\MARI\Documents\Visual Studio 2012\Projects\HWfundamentalII\HWfundamentalII\HWfundamentalII.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"C:\opencv-2.4.9\build\include" /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MARI\Documents\Visual Studio 2012\Projects\HWfundamentalII\x64\Debug\HWfundamentalII.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\opencv-2.4.9\build\x64\vc11\lib" opencv_core2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\MARI\Documents\Visual Studio 2012\Projects\HWfundamentalII\x64\Debug\HWfundamentalII.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MARI\Documents\Visual Studio 2012\Projects\HWfundamentalII\x64\Debug\HWfundamentalII.lib" /MACHINE:X64 x64\Debug\main.obj
+         HWfundamentalII.vcxproj -> C:\Users\MARI\Documents\Visual Studio 2012\Projects\HWfundamentalII\x64\Debug\HWfundamentalII.exe
+     1>プロジェクト "C:\Users\MARI\Documents\Visual Studio 2012\Projects\HWfundamentalII\HWfundamentalII\HWfundamentalII.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:04.94
